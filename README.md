@@ -143,7 +143,7 @@ Family travelling together
 Historical survival rates favor children
 🚀 How to Use
 1. Clone Repository
-git clone https://github.com/yourusername/titanic-survival-predictor.git
+https://github.com/ankit-tiwari-analyst/titanic-survival-predictor
 
 cd titanic-survival-predictor
 2. Install Dependencies
